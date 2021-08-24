@@ -2,7 +2,7 @@
 
 ## React + Java Spring Boot + AWS S3 
 
-Upload and download image to AWS S3 using a webpage created using ReactJS + Java Spring Boot
+Upload and download image to AWS S3 using a web application created using ReactJS + Java Spring Boot
 
 overview of the application
 
